@@ -15,7 +15,7 @@
 		模块内部间使用 Json格式数据传输
 		定义消息头格式如下：
 		to				目的地
-		from			来源
+		from			  来源
 		params			参数集
 		action			行为方式
 		
