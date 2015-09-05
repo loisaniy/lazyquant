@@ -1,3 +1,1 @@
 # First Chapter
-
-$$$$dfsa
