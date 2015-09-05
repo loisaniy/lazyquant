@@ -11,7 +11,7 @@
 
 > **关联模块：**
 - strategy进程
-- client进程
+- 交易柜台
 - oms
 - Redis
 
